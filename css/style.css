@@ -85,6 +85,7 @@ svg {
     height: 100%;
     z-index: 250;
     outline: none;
+    overflow: scroll;
     background-color: #fff;
     transition: 0.5s;
 }
@@ -219,7 +220,7 @@ body.dark
     display: none;
 }
 .navbar li {
-    height: 4rem;
+    height: 3.7rem;
     display: flex;
     justify-content: center;
     align-items: center;
