@@ -17,12 +17,19 @@ Aprendí a crear menús desplegables con JavaScript, a redireccionar a una url d
 
 ## Imágenes:
 - Desktop: 
+
 ![Google Desktop](./assets/screenshots/Google-Desktop.png)
+
 - Desktop Dark Mode: 
+
 ![Google Desktop Dark Mode](./assets/screenshots/Google-Desktop__Dark-Mode.png)
+
 - Mobile:
+
 ![Google Mobile](./assets/screenshots/Google-Mobile.png)
+
 - Mobile Dark Mode:  
+
 ![Google Mobile Dark Mode](./assets/screenshots/Google-Mobile__Dark-Mode.png)
 
 ### Creado por @francocarballar
